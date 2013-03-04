@@ -23,5 +23,5 @@ optimise algorithm
 ![10^7用八个素数剔除 剩10^6][kick7]
 ![剔除分析10^9][kick9]
 
-[kick9][kick1e9.jpg]
-[kick7][kict1e0with8prime_remaining1e6.jpg]
+[kick9]:kick1e9.jpg
+[kick7]:kict1e0with8prime_remaining1e6.jpg
