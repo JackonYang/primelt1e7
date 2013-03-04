@@ -1,5 +1,4 @@
 prime within 10^7
-
 usage
 -----
 
